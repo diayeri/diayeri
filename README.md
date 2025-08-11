@@ -28,4 +28,4 @@
 ### 📫 Contact
 - Email: jdyoung1031@gmail.com
 - LinkedIn: [diayeri](https://linkedin.com/in/diayeri)
-- Blog: [Devlog](https://velog.io/@diayeri)
+- Blog: [velog](https://velog.io/@diayeri)
