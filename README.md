@@ -29,3 +29,4 @@
 - Email: jdyoung1031@gmail.com
 - LinkedIn: [diayeri](https://linkedin.com/in/diayeri)
 - Blog: [velog](https://velog.io/@diayeri)
+- Work Account: [dia24j](https://github.com/dia24j), [dia-nn](https://github.com/dia-nn)
