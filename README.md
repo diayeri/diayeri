@@ -26,7 +26,7 @@
 ---
 
 ### 📫 Contact
-- Email: jdyoung1031@gmail.com
+- Email: diayeri.dev@gmail.com
 - LinkedIn: [diayeri](https://linkedin.com/in/diayeri)
 - Blog: [velog](https://velog.io/@diayeri)
 - Work Account: [dia-nn](https://github.com/dia-nn)
